@@ -24,17 +24,17 @@ public class Algebra {
         this.f = f;
     }
 
-    // Verifica si tiene solución
+    
     public boolean tieneSolucion() {
         return (a * d - b * c) != 0;
     }
 
-    // Calcula X
+    
     public double obtenerX() {
         return (e * d - b * f) / (a * d - b * c);
     }
 
-    // Calcula Y
+    
     public double obtenerY() {
         return (a * f - e * c) / (a * d - b * c);
     }
