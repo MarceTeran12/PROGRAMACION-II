@@ -1,0 +1,7 @@
+Ventajas de la Programación Orientada a Objetos (P.O.O.)
+
+La P.O.O. permite organizar mejor el código agrupando datos y métodos dentro de clases.
+Protege la información mediante el encapsulamiento (atributos privados).
+Facilita la reutilización del código en otros programas.
+Hace que el mantenimiento y las modificaciones sean más sencillas.
+Además, permite que el programa crezca de manera ordenada y profesional.
