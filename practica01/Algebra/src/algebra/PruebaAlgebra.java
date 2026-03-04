@@ -7,7 +7,6 @@ package algebra;
 import java.util.Scanner;
 
 
-
 public class PruebaAlgebra {
 
     public static void main(String[] args) {

@@ -13,14 +13,14 @@ public class PruebaCronometro {
         int[] numeros = new int[100000];
         Random aleatorio = new Random();
 
-        // Llenar arreglo con números aleatorios
+        
         for (int i = 0; i < numeros.length; i++) {
             numeros[i] = aleatorio.nextInt(100000);
         }
 
         Cronometro cronometro = new Cronometro();
 
-        // Ordenación por selección
+        
         for (int i = 0; i < numeros.length - 1; i++) {
             int posicionMenor = i;
 

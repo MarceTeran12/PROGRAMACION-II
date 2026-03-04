@@ -13,7 +13,6 @@ public class PruebaEstadistica {
 
         Scanner entrada = new Scanner(System.in);
         
-        // Fuerza a usar punto como decimal
         entrada.useLocale(Locale.US);
 
         double[] numeros = new double[10];

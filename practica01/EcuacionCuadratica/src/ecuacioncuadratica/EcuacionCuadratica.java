@@ -16,7 +16,7 @@ public class EcuacionCuadratica {
         this.c = c;
     }
 
-    // Calcula el discriminante
+    
     public double obtenerDiscriminante() {
         return b * b - 4 * a * c;
     }
